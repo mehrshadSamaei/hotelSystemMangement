@@ -1,0 +1,4 @@
+1 room 1500 1
+2 dinner 80 2
+3 dinner 200 4
+4 confrence 1000 5
